@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bitcoin</string>
+    <string name="counrty">SELECT COUNTRY</string>
+    <string-array name="country_names">
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>AUD</item>
+    </string-array>
+</resources>
